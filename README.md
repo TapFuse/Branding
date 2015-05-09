@@ -1,2 +1,1 @@
-# Branding
-TapFuse and related products branding guidelines
+### TapFuse and related products branding guidelines
